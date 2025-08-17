@@ -1,0 +1,25 @@
+17/08/2025 14:00:06	Dal.CustomerImplementation.ReadAll:	Read all customers
+17/08/2025 14:03:20	Dal.ProductImplementation.ReadAll:	Read all products
+17/08/2025 14:05:26	Dal.ProductImplementation.ReadAll:	Read all products
+17/08/2025 14:05:33	Dal.CustomerImplementation.Read:	Read customer with id: -1
+17/08/2025 14:05:33	Dal.CustomerImplementation.Read:	Exception: Customer with id -1 not found.
+17/08/2025 14:05:33	Dal.ProductImplementation.Read:	Read product with id: 300
+17/08/2025 14:05:33	Dal.SaleImplementation.ReadAll:	Read all sales
+17/08/2025 14:05:48	Dal.ProductImplementation.ReadAll:	Read all products
+17/08/2025 14:06:21	Dal.ProductImplementation.ReadAll:	Read all products
+17/08/2025 14:07:46	Dal.ProductImplementation.ReadAll:	Read all products
+17/08/2025 14:07:55	Dal.ProductImplementation.ReadAll:	Read all products
+17/08/2025 14:09:48	Dal.ProductImplementation.ReadAll:	Read all products
+17/08/2025 14:09:49	Dal.CustomerImplementation.Read:	Read customer with id: -1
+17/08/2025 14:09:49	Dal.CustomerImplementation.Read:	Exception: Customer with id -1 not found.
+17/08/2025 14:09:49	Dal.ProductImplementation.Read:	Read product with id: 100
+17/08/2025 14:09:49	Dal.SaleImplementation.ReadAll:	Read all sales
+17/08/2025 14:16:13	Dal.ProductImplementation.ReadAll:	Read all products
+17/08/2025 15:00:13	Dal.ProductImplementation.ReadAll:	Read all products
+17/08/2025 15:00:15	Dal.CustomerImplementation.Read:	Read customer with id: -1
+17/08/2025 15:00:15	Dal.CustomerImplementation.Read:	Exception: Customer with id -1 not found.
+17/08/2025 15:00:15	Dal.ProductImplementation.Read:	Read product with id: 100
+17/08/2025 15:00:15	Dal.SaleImplementation.ReadAll:	Read all sales
+17/08/2025 15:00:22	Dal.ProductImplementation.Read:	Read product with id: 100
+17/08/2025 15:00:22	Dal.ProductImplementation.Update:	Update product with id: 100
+17/08/2025 15:33:05	Dal.ProductImplementation.ReadAll:	Read all products
