@@ -1,5 +1,4 @@
-# 🏪 Point of Sale (POS) System
-
+# Store Management System
 A comprehensive retail management system built using C# and Windows Forms. The system features a cashier interface and an admin panel, enabling full management of products, customers, inventory, and advanced promotions for small-to-medium retail stores.
 
 ---
